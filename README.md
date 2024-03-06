@@ -1,6 +1,6 @@
 # Nexos
 
-## Nexos es una aplicación Java Spring Boot que administra departamentos y empleados. Permite realizar operaciones CRUD (crear, leer, actualizar y eliminar) en ambas entidades, con una relación de muchos a uno entre departamentos y empleados: un departamento puede tener muchos empleados, mientras que un empleado solo puede pertenecer a un departamento.
+# Nexos es una aplicación Java Spring Boot que administra departamentos y empleados. Permite realizar operaciones CRUD (crear, leer, actualizar y eliminar) en ambas entidades, con una relación de muchos a uno entre departamentos y empleados: un departamento puede tener muchos empleados, mientras que un empleado solo puede pertenecer a un departamento.
 
 ## Tecnologías utilizadas
 
@@ -38,7 +38,7 @@
 1.) Clonar o descargar el proyecto
 
 * Podemos clonar el proyecto mediante: https://github.com/K3nnyPai/Nexos.git
-* Podemos Descargar el proyecto por medio de:
+* Podemos Descargar el proyecto por medio de: https://drive.google.com/file/d/1YL-SH0uEIDFKmbcBddrIVKAsmdr7zSCB/view?usp=sharing
 
 2.) Configurar la conexión a la base de datos
 
